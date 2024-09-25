@@ -1,5 +1,5 @@
 **markdown für Matteo Etter**
 
-[Link zur Bussenübersicht](https://nilstellenbach.github.io/BussenNlb.pdf) \
+[Link zur Bussenübersicht](https://bussen-pfadi-nlb.vercel.app) \
 [Link zum Bussenkatalog](https://nilstellenbach.github.io/BussenNlb.pdf)
 
