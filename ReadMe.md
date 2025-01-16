@@ -21,6 +21,6 @@ Die genauen Regeln und die Höhe der jeweiligen Bussen kannst du im vollständig
 ## Hinweise
 
 - Änderungen und Ergänzungen des Bussenkatalog vorbehalten
-- Wichtigstes Ziel: [**MIAMI](https://open.spotify.com/wrapped/share/share-8b70a785d6cf4528a555fae66f967075?si=ZJbVkliiT-KzD3PUepH6vg&track-id=6e8Ou0wiqAzIpWb2eSxll8&feature=wrapped)
+- Wichtigstes Ziel: [**MIAMI**](https://open.spotify.com/wrapped/share/share-8b70a785d6cf4528a555fae66f967075?si=ZJbVkliiT-KzD3PUepH6vg&track-id=6e8Ou0wiqAzIpWb2eSxll8&feature=wrapped)
 
 ---
